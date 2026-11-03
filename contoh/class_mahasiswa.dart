@@ -27,3 +27,4 @@ void main() {
   final b = MahasiswaBaru(nim: '1124160120', jurusan: 'Teknik Informatika', nama: 'Fadia Nurcholifah');
   print(b.infoMahasiswa());
 }
+
